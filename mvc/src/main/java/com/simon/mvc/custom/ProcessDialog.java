@@ -10,7 +10,7 @@ import android.view.animation.AnimationUtils;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.simon.rameworkdemo.androidframeworkdemo.R;
+import com.simon.mvp.R;
 
 /**
  * auther: Simon zhang

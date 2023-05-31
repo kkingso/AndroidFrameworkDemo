@@ -2,11 +2,23 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AndroidFrameworkDemo.iml" filepath="$PROJECT_DIR$/AndroidFrameworkDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mvc/mvc.iml" filepath="$PROJECT_DIR$/mvc/mvc.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mvp/mvp.iml" filepath="$PROJECT_DIR$/mvp/mvp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mvpdatabinding/mvpdatabinding.iml" filepath="$PROJECT_DIR$/mvpdatabinding/mvpdatabinding.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mvvm/mvvm.iml" filepath="$PROJECT_DIR$/mvvm/mvvm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AndroidFrameworkDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/AndroidFrameworkDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mvc/AndroidFrameworkDemo.mvc.iml" filepath="$PROJECT_DIR$/.idea/modules/mvc/AndroidFrameworkDemo.mvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mvc/AndroidFrameworkDemo.mvc.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/mvc/AndroidFrameworkDemo.mvc.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mvc/AndroidFrameworkDemo.mvc.main.iml" filepath="$PROJECT_DIR$/.idea/modules/mvc/AndroidFrameworkDemo.mvc.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mvc/AndroidFrameworkDemo.mvc.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/mvc/AndroidFrameworkDemo.mvc.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mvp/AndroidFrameworkDemo.mvp.iml" filepath="$PROJECT_DIR$/.idea/modules/mvp/AndroidFrameworkDemo.mvp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mvp/AndroidFrameworkDemo.mvp.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/mvp/AndroidFrameworkDemo.mvp.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mvp/AndroidFrameworkDemo.mvp.main.iml" filepath="$PROJECT_DIR$/.idea/modules/mvp/AndroidFrameworkDemo.mvp.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mvp/AndroidFrameworkDemo.mvp.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/mvp/AndroidFrameworkDemo.mvp.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mvpdatabinding/AndroidFrameworkDemo.mvpdatabinding.iml" filepath="$PROJECT_DIR$/.idea/modules/mvpdatabinding/AndroidFrameworkDemo.mvpdatabinding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mvpdatabinding/AndroidFrameworkDemo.mvpdatabinding.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/mvpdatabinding/AndroidFrameworkDemo.mvpdatabinding.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mvpdatabinding/AndroidFrameworkDemo.mvpdatabinding.main.iml" filepath="$PROJECT_DIR$/.idea/modules/mvpdatabinding/AndroidFrameworkDemo.mvpdatabinding.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mvpdatabinding/AndroidFrameworkDemo.mvpdatabinding.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/mvpdatabinding/AndroidFrameworkDemo.mvpdatabinding.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mvvm/AndroidFrameworkDemo.mvvm.iml" filepath="$PROJECT_DIR$/.idea/modules/mvvm/AndroidFrameworkDemo.mvvm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mvvm/AndroidFrameworkDemo.mvvm.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/mvvm/AndroidFrameworkDemo.mvvm.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mvvm/AndroidFrameworkDemo.mvvm.main.iml" filepath="$PROJECT_DIR$/.idea/modules/mvvm/AndroidFrameworkDemo.mvvm.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mvvm/AndroidFrameworkDemo.mvvm.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/mvvm/AndroidFrameworkDemo.mvvm.unitTest.iml" />
     </modules>
   </component>
 </project>

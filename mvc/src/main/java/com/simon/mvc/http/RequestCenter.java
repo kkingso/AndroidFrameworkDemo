@@ -10,7 +10,7 @@ import com.simon.okhttp.callback.Callback;
 
 public class RequestCenter {
 
-    public static void requestCountributor(Callback<String> callback){
+    public static void requestContributor(Callback<String> callback){
         OkHttpUtils.get(Https.request_contributor_url).execute(callback);
     }
 

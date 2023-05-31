@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void get(View view){
-        RequestCenter.requestCountributor(new StringCallback() {
+        RequestCenter.requestContributor(new StringCallback() {
             @Override
             public void onBefore(Request request, int id) {
                 showProgress();
